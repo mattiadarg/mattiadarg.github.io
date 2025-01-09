@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.12b13c60.css",
-    "main.js": "/static/js/main.1b2565f3.js",
-    "static/media/CV_MattiadArgenio_0125.pdf": "/static/media/CV_MattiadArgenio_0125.8771201e06ab27e60360.pdf",
-    "static/media/io.jpeg": "/static/media/io.8c5886a4d868f36a30fc.jpeg",
+    "main.css": "/static/css/main.4af2dd83.css",
+    "main.js": "/static/js/main.ddfb7af5.js",
+    "static/media/IMG_6610.JPG": "/static/media/IMG_6610.4334fe24e1833e121b4e.JPG",
+    "static/media/cv_mattiadargenio_0125up.pdf": "/static/media/cv_mattiadargenio_0125up.1c2845dda89ce85b6d16.pdf",
     "static/media/esport.png": "/static/media/esport.da64ead4ea53210f224e.png",
     "static/media/brain.png": "/static/media/brain.9cf05298a62217abdaf0.png",
     "static/media/heart-attack.png": "/static/media/heart-attack.94c88edb2e1691b9714d.png",
@@ -13,11 +13,11 @@
     "static/media/security-validation-stroke-rounded.svg": "/static/media/security-validation-stroke-rounded.ba701d3177ad7662ae0941680f74c283.svg",
     "static/media/artificial-intelligence-04-stroke-rounded.svg": "/static/media/artificial-intelligence-04-stroke-rounded.4de0297079016e037ac34dde07abd7db.svg",
     "index.html": "/index.html",
-    "main.12b13c60.css.map": "/static/css/main.12b13c60.css.map",
-    "main.1b2565f3.js.map": "/static/js/main.1b2565f3.js.map"
+    "main.4af2dd83.css.map": "/static/css/main.4af2dd83.css.map",
+    "main.ddfb7af5.js.map": "/static/js/main.ddfb7af5.js.map"
   },
   "entrypoints": [
-    "static/css/main.12b13c60.css",
-    "static/js/main.1b2565f3.js"
+    "static/css/main.4af2dd83.css",
+    "static/js/main.ddfb7af5.js"
   ]
 }
