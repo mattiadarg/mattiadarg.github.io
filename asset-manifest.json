@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12b13c60.css",
+    "main.js": "/static/js/main.1b2565f3.js",
+    "static/media/CV_MattiadArgenio_0125.pdf": "/static/media/CV_MattiadArgenio_0125.8771201e06ab27e60360.pdf",
+    "static/media/io.jpeg": "/static/media/io.8c5886a4d868f36a30fc.jpeg",
+    "static/media/esport.png": "/static/media/esport.da64ead4ea53210f224e.png",
+    "static/media/brain.png": "/static/media/brain.9cf05298a62217abdaf0.png",
+    "static/media/heart-attack.png": "/static/media/heart-attack.94c88edb2e1691b9714d.png",
+    "static/media/link.png": "/static/media/link.1b0440572f8735fe4b99.png",
+    "static/media/camera.png": "/static/media/camera.e4b171aa2da395b00e68.png",
+    "static/media/zoom-lens.png": "/static/media/zoom-lens.2eb4e544152ca61bc08c.png",
+    "static/media/security-validation-stroke-rounded.svg": "/static/media/security-validation-stroke-rounded.ba701d3177ad7662ae0941680f74c283.svg",
+    "static/media/artificial-intelligence-04-stroke-rounded.svg": "/static/media/artificial-intelligence-04-stroke-rounded.4de0297079016e037ac34dde07abd7db.svg",
+    "index.html": "/index.html",
+    "main.12b13c60.css.map": "/static/css/main.12b13c60.css.map",
+    "main.1b2565f3.js.map": "/static/js/main.1b2565f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12b13c60.css",
+    "static/js/main.1b2565f3.js"
+  ]
+}
