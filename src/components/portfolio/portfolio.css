@@ -83,3 +83,12 @@
     text-align: center;
 }
 
+
+@media screen and (max-width: 600px) {
+    .portfolio__item p {
+        margin-bottom: 3.5rem; /* Aumenta lo spazio sotto per schermi piccoli */
+    }
+    .portfolio__item-cta {
+        margin-top: 1.5rem; /* Assicura spazio adeguato tra il pulsante e il testo */
+    }
+}

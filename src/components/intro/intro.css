@@ -14,15 +14,16 @@
 }
 
 .about__me-image {
-    border-radius: 2rem;
+    border-radius: 3rem;
     overflow: hidden;
-    transform: rotate(10deg);
-    transition: var(--transition);
+    transform: rotate(5deg) scale(1);
+    transition: transform 0.3s ease-in-out;
 }
 
 .about__me-image:hover {
-    transform: rotate(0);
+    transform: rotate(0) scale(1.1); /* Zooma leggermente */
 }
+
 
 .about__cards {
     display: grid;
@@ -79,6 +80,16 @@
     .about__content p {
         margin: 1rem 0 1.5rem;
     }
+
+    .about__me {
+        width: 50%; /* Mantieni il contenitore ridimensionato */
+        margin: 2rem auto 4rem;
+    }
+
+    .about__me-image {
+        max-width: 80%; /* Riduce l'immagine al 70% della larghezza del contenitore */
+        height: auto; /* Mantiene il rapporto d'aspetto */
+    }
 }
   
 @media screen and (max-width: 600px){
@@ -98,5 +109,15 @@
 
     .about__content p {
         margin: 1.5rem 0;
+    }
+
+    .about__me {
+        width: 65%; /* Mantieni il contenitore più piccolo */
+        margin: 0rem auto 3rem;
+    }
+
+    .about__me-image {
+        max-width: 80%; /* Riduce ulteriormente l'immagine */
+        height: auto; /* Mantiene il rapporto d'aspetto */
     }
 }

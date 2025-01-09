@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaGraduationCap } from 'react-icons/fa';
 import { FaUsers } from 'react-icons/fa';
-import ME from '../../assets/io.jpeg';
+import ME from '../../assets/IMG_6610.JPG';
 import './intro.css';
 import {useTranslation} from "react-i18next";
 

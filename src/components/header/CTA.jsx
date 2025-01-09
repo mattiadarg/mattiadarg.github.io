@@ -1,5 +1,5 @@
 import React from 'react';
-import CV from '../../assets/CV_MattiadArgenio_0125.pdf';
+import CV from '../../assets/cv_mattiadargenio_0125up.pdf';
 import {useTranslation} from "react-i18next";
 
 
